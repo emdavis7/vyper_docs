@@ -10,7 +10,6 @@
   "dependencies": {
     "@babel/runtime-corejs2": "^7.3.4",
     "css-loader": "^2.1.1",
-    "embarkjs-connector-web3": "4.0.0",
     "rxjs": "^6.4.0",
     "style-loader": "^0.23.1",
     "url-loader": "^1.1.2",
